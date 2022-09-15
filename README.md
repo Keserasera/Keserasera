@@ -14,8 +14,8 @@
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=plastic&logo=OpenCV&logoColor=white)
 ![OpenGL](https://img.shields.io/badge/OpenGL-5586A4.svg?&style=plastic&logo=OpenGL&logoColor=white)
 ![Fortran](https://img.shields.io/badge/Fortran-734F96.svg?&style=plastic&logo=Fortran&logoColor=white)
-CUDA ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=plastic&logo=NVIDIA&logoColor=white)
-HIP ![AMD](https://img.shields.io/badge/AMD-ED1C24.svg?&style=plastic&logo=AMD&logoColor=white), OpenCL, OpenMP, OpenACC, MPI
+ CUDA ![NVIDIA](https://img.shields.io/badge/NVIDIA-76B900.svg?&style=plastic&logo=NVIDIA&logoColor=white)
+ HIP ![AMD](https://img.shields.io/badge/AMD-ED1C24.svg?&style=plastic&logo=AMD&logoColor=white), OpenCL, OpenMP, OpenACC, MPI
 
 ## Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=plastic&logo=Visual%20Studio&logoColor=white)
