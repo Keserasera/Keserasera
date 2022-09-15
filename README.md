@@ -2,6 +2,12 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKeserasera&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
+## Platforms
+![Windows](https://img.shields.io/badge/Windows-0078D6.svg?&style=plastic&logo=Windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=plastic&logo=Linux&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?&style=plastic&logo=Ubuntu&logoColor=white)
+![Arm](https://img.shields.io/badge/Arm-0091BD.svg?&style=plastic&logo=Arm&logoColor=white)
+
 ## Languages
 ![C](https://img.shields.io/badge/C-A8B9CC.svg?&style=plastic&logo=C&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C.svg?&style=plastic&logo=C++&logoColor=white)
@@ -18,7 +24,8 @@ HIP![AMD](https://img.shields.io/badge/AMD-ED1C24.svg?&style=plastic&logo=AMD&lo
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=plastic&logo=Adobe%20Photoshop&logoColor=white)
 3ds Max, Maya, Adobe Premiere, Vegas
 
-![Keserasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keserasera&show_icons=true&theme=merko)
+## Stats
+![Keserasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keserasera&show_icons=true&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keserasera&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
