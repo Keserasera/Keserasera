@@ -18,9 +18,9 @@ HIP![AMD](https://img.shields.io/badge/AMD-ED1C24.svg?&style=plastic&logo=AMD&lo
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=plastic&logo=Adobe%20Photoshop&logoColor=white)
 3ds Max, Maya, Adobe Premiere, Vegas
 
-![Keserasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keserasera&show_icons=true&theme=radical)
+![Keserasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keserasera&show_icons=true&theme=merko)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keserasera&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keserasera&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=tarje3)](https://solved.ac/tarje3/)
 
