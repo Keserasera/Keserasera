@@ -24,6 +24,9 @@ HIP![AMD](https://img.shields.io/badge/AMD-ED1C24.svg?&style=plastic&logo=AMD&lo
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?&style=plastic&logo=Adobe%20Photoshop&logoColor=white)
 3ds Max, Maya, Adobe Premiere, Vegas
 
+## Research
+Computer Vision, Graphics, Rendering, Multimedia, AR, 3D, Embedded, HPC, GPU Coding, Parallel Computing
+
 ## Stats
 ![Keserasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keserasera&show_icons=true&theme=tokyonight)
 
