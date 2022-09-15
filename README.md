@@ -20,10 +20,9 @@ HIP![AMD](https://img.shields.io/badge/AMD-ED1C24.svg?&style=plastic&logo=AMD&lo
 
 
 
-[![Keserasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keserasera)](https://github.sec.samsung.net/Keserasera/Keserasera)
-
+![Keserasera's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keserasera&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keserasera)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keserasera)](https://github.com/Keserasera/github-readme-stats)
+
 
 
 
